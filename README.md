@@ -1,14 +1,14 @@
 # Tatianna_Aria
 
-# Environment - ( Microsoft Platform ) represent 'Aria' in the project code name
+Environment - ( Microsoft Platform ) represent 'Aria' in the project code name
 
-# Tatianna - Is a code name for POC ( Proof of concept ) Project for inventory management
+Tatianna - Is a code name for POC ( Proof of concept ) Project for inventory management
 
-# Tatianna Aria - Is a module for a Simple inventory management where the target audience is for a single household ( A person day to day house inventory ) , where the client require no internet connection to perfrom inventory management and using a Microsoft os installed in their machine 
+Tatianna Aria - Is a module for a Simple inventory management where the target audience is for a single household ( A person day to day house inventory ) , where the client require no internet connection to perfrom inventory management and using a Microsoft os installed in their machine 
 
-# Note : This is a proof of concept project that and is not maintained reqularly as i am building it on a weekly ( weekend ) based . 
+Note : This is a proof of concept project that and is not maintained reqularly as i am building it on a weekly ( weekend ) based . 
 
-# Suitable : For project starters to take a grasp on how to strategize this features in a bigger existing  modules or projects 
+Remark : Suitable For project starters to take a grasp on how to strategize this features in a bigger existing  modules or projects 
 
 Deployment Strategy - Intranet ( Locally ) 
 
