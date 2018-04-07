@@ -1,4 +1,7 @@
 # Tatianna_Aria
+
+Environment - ( Microsoft Platform ) represent 'Aria' the project code name
+
 Tatianna Aria - Is a module for a Simple inventory management where the target audience for a single household
 
 Deployment Strategy - Intranet ( Locally ) 
