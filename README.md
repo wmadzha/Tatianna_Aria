@@ -11,7 +11,7 @@ Deployment Strategy - Intranet ( Locally )
 Machine Setup -
 
 1. Windows OS Machine - Installed With IIS . 
-2. Wireless Router - Not Connected To Internet and connected via cable to Machine
+2. Wireless Router - Not Connected To Internet and connected via LAN cable to Machine
 
 Sofware Layering 
 
