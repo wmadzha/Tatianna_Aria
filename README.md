@@ -6,7 +6,7 @@ Tatianna - Is a code name for POC ( Proof of concept ) Project for inventory man
 
 Tatianna Aria - Is a module for a Simple inventory management where the target audience is for a single household ( A person day to day house inventory ) , where the client require no internet connection to perfrom inventory management and using a Microsoft os installed in their machine 
 
-Note : This is a proof of concept project that and is not maintained reqularly as i am building it on a weekly ( weekend ) based . 
+Note : This is a proof of concept project that and is not maintained regularly as i am building it on a weekly basis . 
 
 Remark : Suitable For project starters to take a grasp on how to strategize this features in a bigger existing  modules or projects 
 
