@@ -25,6 +25,7 @@ Sofware Layering
 4. Web API - Asp.net Web API ( Public data access strategy ) 
 5. System Security - ( .dll libraries to perform extra sytem security since https is not implemented )
 6. Identity and security - ( Identity Server 4 ) ( Will be implemented On Version 2 )
+7. Cloud Sync - ( Azure Web Service ) ( Will be impelented On Version 2 ) - If client wanted to use the module publicly ( sharing outside of the house hold or in other words access the features outside the local wireless perimeter )
 
 
 
